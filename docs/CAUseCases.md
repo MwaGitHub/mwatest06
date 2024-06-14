@@ -5,6 +5,8 @@
 
 ### Choose an activity
 
+this is where the user decides what they want to do
+
 | Item            | Description                                                           | 
   |-----------------|-----------------------------------------------------------------------| 
 | *Primary Actor* | Polaris user                                                          | 
